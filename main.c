@@ -6,6 +6,7 @@ int main() {
     while(x>3){
         x++;
     }
+    x=4;
     kiir(x);
     return 0;
 }
